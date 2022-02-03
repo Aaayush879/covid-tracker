@@ -1,0 +1,70 @@
+.a {
+    background: url("./my.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    align-items: center;
+}
+
+.c{
+    font-size: 2.1rem;
+    
+    text-align: center;
+}
+.d {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+.ab {
+    height: 2vh;
+    width: 1000px;
+    
+   
+    display:'flex';
+}
+
+.bc {
+    font-size: 1.5rem;
+    color: white;    
+    margin-left:5rem;
+}
+.cd{
+    font-size: 1.5rem;
+    
+    margin-left:5rem;
+
+
+}
+.worldStats-box {
+    height: 100%;
+    width: 250px;
+    float: left;
+    margin-right: 80px;
+}
+
+.totalNumbers {
+    font-size: 1.5rem;
+    color: white;
+    font-weight: 700 !important;
+    font-family: 'Nunito';
+    width: 100%;
+    text-align: center;
+    margin-top: 30%;
+}
+
+.about {
+    width: 100%;
+    font-size: 1.5rem;
+    text-align: center;
+    color: rgba(255,255,255,.7);
+    margin-top: 5%;
+    font-family: "Nunito";
+}
+
+
+
+
